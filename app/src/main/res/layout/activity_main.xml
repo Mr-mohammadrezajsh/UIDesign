@@ -328,7 +328,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView24"
+                    android:id="@+id/image24"
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:layout_gravity="center"
@@ -336,7 +336,7 @@
                     app:srcCompat="@drawable/bottom_btn1" />
 
                 <TextView
-                    android:id="@+id/textView17"
+                    android:id="@+id/textc17"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Home"
@@ -351,7 +351,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView24"
+                    android:id="@+id/imag24"
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:layout_gravity="center"
@@ -359,7 +359,7 @@
                     app:srcCompat="@drawable/bottom_btn2" />
 
                 <TextView
-                    android:id="@+id/textView17"
+                    android:id="@+id/text17"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Wallet"
@@ -375,7 +375,7 @@
                 android:visibility="invisible">
 
                 <ImageView
-                    android:id="@+id/imageView24"
+                    android:id="@+id/imageVie24"
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:layout_gravity="center"
@@ -383,7 +383,7 @@
                     app:srcCompat="@drawable/bottom_btn1" />
 
                 <TextView
-                    android:id="@+id/textView17"
+                    android:id="@+id/textVi17"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Home"
@@ -406,7 +406,7 @@
                     app:srcCompat="@drawable/bottom_btn3" />
 
                 <TextView
-                    android:id="@+id/textView17"
+                    android:id="@+id/textV17"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Profile"
