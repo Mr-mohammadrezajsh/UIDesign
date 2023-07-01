@@ -5,17 +5,8 @@
 
 <h3>#ScreenShot</h3>
 <img
-  src="UIDesign/screen/image1.png"
+  src="/screen/image1.png"
   alt="Screen Shot 1"
   title="Screen Shot 1"
   style="display: inline-block; margin: 0 auto; height: 500px; width: 300px">
-  <img
-  src="UIDesign/screen/image2.png"
-  alt="Screen Shot 2"
-  title="Screen Shot 2"
-  style="display: inline-block; margin: 0 auto; height: 500px; width: 300px">
-  <img
-  src="UIDesign/screens/image3.png"
-  alt="Screen Shot 3"
-  title="Screen Shot 3"
-  style="display: inline-block; margin: 0 auto; height: 500px; width: 300px">
+ 
